@@ -21,7 +21,7 @@
         </h2>
        </p>
         
-    <img src="kong.jpg">
+    <img src="./kong.jpg">
         
        
     </div>
