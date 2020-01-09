@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8" >
     <link rel="stylesheet" href="style.css" />
   
     <title>Assignment 1: GitHub practice</title>
@@ -19,9 +19,9 @@
             <p> Plus I want to work in my home so, software Engineering can helep me to earn money in the future.</p>
             
         </h2>
-       </p>
+       
         
-    <img src="kong.jpg">
+    <img src="kong.jpg"/>
         
        
     </div>
