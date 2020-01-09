@@ -19,7 +19,7 @@
             <p> Plus I want to work in my home so, software Engineering can helep me to earn money in the future.</p>
         </h2>
        
-        <img src="kong.jpg">
+    <img src="kong.jpg">
         
        
     </div>
